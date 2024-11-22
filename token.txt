@@ -1,0 +1,5 @@
+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
+
+git remote add origin https://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@github.com/Kishore-ksr/git
+
+git remote add origin https://github.com/Kishore-ksr/git.git
